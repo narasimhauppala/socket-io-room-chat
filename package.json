@@ -1,5 +1,5 @@
 {
-  "name": "socket-io-chat-room",
+  "name": "socket-io-room-chat",
   "version": "1.0.0",
   "description": "This Is a Fully Functional Chat Room Application.",
   "main": "server.js",
